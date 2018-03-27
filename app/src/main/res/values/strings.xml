@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomDrawer</string>
+    <string name="database">Database</string>
+    <string name="contact">Contact</string>
+    <string name="play">Play</string>
+    <string name="account">Account</string>
+    <string name="share">Share</string>
+
+    <string name="open">Open</string>
+
+    <string name="close">Close</string>
+</resources>
